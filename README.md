@@ -17,6 +17,7 @@ https://bjdejongblog.nl/asp-net-core-tips-and-quick-setup-identity-system/
 
 Starting in the project root folder, I ran some commands.
 
+    $ npm install axios
     $ vue create frontend
 
 This prompted questions that I answered based on the guide.
